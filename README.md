@@ -1,0 +1,1 @@
+# sfguide-getting-started-with-partitioned-models-snowflake-model-registry
