@@ -1,4 +1,5 @@
 USE ROLE ACCOUNTADMIN;
+USE DATABASE SNOWFLAKE;
 
 -- Using ACCOUNTADMIN, create a new role for this exercise and grant to applicable users
 CREATE OR REPLACE ROLE PARTITIONED_LAB_USER;
